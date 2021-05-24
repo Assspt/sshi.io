@@ -5,5 +5,6 @@
 <h5>بدون پول و هزینه </h5>
 <h5>فقط به این ایمیل تماس بگرید </h5>
 <h5>pssslek@gmail.com</h5>
-<input placeholder="نظر خود را بنویسد "</input>
+<h1></h1>
+<input> نظر خود را وارد کنید</input>
 <button type="button" onclick="alert('error ')">ثبت</button>
