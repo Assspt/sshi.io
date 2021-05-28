@@ -8,3 +8,4 @@
 
 <input placeholder="نظر ">
 <button type="button" onclick="alert('error ')">ثبت</button>
+<body style="background-color: #ffbb22;">
